@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 export default function App() {
 	const questions = [
 		{
-			questionText: '____ JavaScript is also called client-side JavaScript.',
+			questionText: '___ JavaScript is also called client-side JavaScript.',
 			answerOptions: [
 				{ answerText: 'Microsoft', isCorrect: false },
 				{ answerText: 'Navigator', isCorrect: true },
